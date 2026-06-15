@@ -155,6 +155,3 @@ MINspire-Earthquake-Modeling/
 
 
 
----
-
-If you reply with answers, I can upgrade this again into a **top 1% “MIT-level research README + LinkedIn post + paper abstract bundle”**.
